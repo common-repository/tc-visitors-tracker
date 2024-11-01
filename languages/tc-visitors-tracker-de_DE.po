@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2018-10-14 10:38+0700\n"
+"PO-Revision-Date: 2018-11-13 17:50+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: tc-visitors-tracker.php
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: tc-visitors-tracker.php
+msgid "Page Views"
+msgstr "Seitenansichten"
+
+#: tc-visitors-tracker.php
+msgid "Time of View"
+msgstr "Zeit der Ansicht"
+
+#: tc-visitors-tracker.php
+msgid "Update GeoIP"
+msgstr "GeoIP aktualisieren"
+
+#: tc-visitors-tracker.php
+msgid "Database"
+msgstr "Datenbank"
+
+#: tc-visitors-tracker.php
+msgid "About"
+msgstr "Über..."
+
+#: about.php
+msgid ""
+"This plugin logs the visitors of your homepage. The records including IP-"
+"address, browser, operating system, requested page as well as the originate "
+"page. The extended version of this plugin measures additionally the actual "
+"time a visitor looks at the page."
+msgstr ""
+"Dieses Plugin protokolliert die Besucher Ihrer Homepage. Die Aufzeichnungen "
+"enthalten IP-Adresse, Browser, Betriebssystem, angeforderte Seite sowie die "
+"Herkunftsseite. Die erweiterte Version dieses Plugins misst zusätzlich noch "
+"die tatsächliche Zeit, die ein Besucher auf die Seite schaut."
+
+#: viewtime.php
+msgid ""
+"The extended version of this plugin measures additionally the actual time a "
+"visitor looks at the page. The time measurement is started, when:"
+msgstr ""
+"Die erweiterte Version dieses Plugins misst zusätzlich noch die tatsächliche "
+"Zeit, die ein Besucher auf die Seite schaut. Die Zeitmessung wird gestartet, "
+"wenn:"
+
+#: viewtime.php
+msgid "the page is opened"
+msgstr "die Seite geöffnet wird"
+
+#: viewtime.php
+msgid "the tab with the already opened page is brought into the foreground"
+msgstr ""
+"die Registerkarte mit der bereits geöffneten Seite in den Vordergrund "
+"gebracht wird"
+
+#: viewtime.php
+msgid "an user input occurs after the idle timeout of 60 seconds"
+msgstr ""
+"eine Benutzereingabe erfolgt nach dem Leerlaufzeitlimit von 60 Sekunden"
+
+#: viewtime.php
+msgid "The time measurement is stopped, when:"
+msgstr "Die Zeitmessung wird gestoppt, wenn:"
+
+#: viewtime.php
+msgid "the tab with the opened page is no more in the foreground"
+msgstr ""
+"die Registerkarte mit der geöffneten Seite nicht mehr im Vordergrund ist"
+
+#: viewtime.php
+msgid "the tab with the opened page will be closed"
+msgstr "die Registerkarte mit der geöffneten Seite geschlossen wird"
+
+#: viewtime.php
+msgid "the browser is closed"
+msgstr "der Browser geschlossen wird"
+
+#: viewtime.php
+msgid "after an idle timeout of 60 seconds without user input"
+msgstr "nach einer Leerlaufzeit von 60 Sekunden ohne Benutzereingabe"
+
+#: viewtime.php
+msgid ""
+"The extended version can be downloaded for a small fee, by clicking on the "
+"following button."
+msgstr ""
+"Die erweiterte Version kann gegen eine geringe Gebühr heruntergeladen "
+"werden, indem Sie auf die folgende Schaltfläche klicken."
+
+#: viewtime.php
+msgid ""
+"After payment, you will be taken to a page with a link to download the "
+"plugin. To install, go to the «Plugins» page in your Wordpress CMS and click "
+"in the upper left corner «Add New». In the following page click on «Upload "
+"Plugin» in the upper left corner. Select the file you downloaded and click "
+"«Install Now». In the following page click on «Activate Plugin». Now you can "
+"find a new plugin at the «Plugins» page called «Visitors Tracker Extended by "
+"tech-c.net»."
+msgstr ""
+"Nach der Bezahlung werden Sie auf eine Seite mit einem Link zum "
+"Herunterladen des Plugins geleitet. Zum installieren, gehen Sie zur Seite "
+"«Plugins» in Ihrem Wordpress CMS und klicken Sie in der oberen linken Ecke "
+"«Plugins installieren». Auf der folgenden Seite klicken Sie auf «Plugin "
+"hochladen» in der oberen linken Ecke. Wählen Sie die heruntergeladene Datei "
+"und klicken Sie auf «Jetzt installieren». Auf der folgenden Seite klicken "
+"Sie auf «Plugin aktivieren». Jetzt können Sie ein neues Plugin mit dem Namen "
+"«Visitors Tracker Extended by tech-c.net» auf der «Plugins» Seite finden."
+
+#: viewtime.php
+msgid ""
+"The screenshot below shows how this page looks like in the extended version "
+"of this plugin."
+msgstr ""
+"Der folgende Screenshot zeigt, wie diese Seite in der erweiterten Version "
+"dieses Plugins aussieht."
+
+#: about.php
+msgid "Plugin version"
+msgstr "Plugin-Version"
+
+#: about.php
+msgid "Homepage"
+msgstr "Homepage"
+
+#: database.php
+msgid "Database table name:"
+msgstr "Datenbank-Tabellenname:"
+
+#: database.php
+msgid "Rows in table:"
+msgstr "Zeilen in Tablelle:"
+
+#: database.php
+msgid "Table size:"
+msgstr "Tabellengröße:"
+
+#: database.php
+msgid ""
+"In order to empty the record table of this plugin just click on the button "
+"below and confirm."
+msgstr ""
+"Um die Aufzeichnungstabelle dieses Plugins zu leeren, klicken Sie einfach "
+"auf die Schaltfläche unten und bestätigen Sie."
+
+#: database.php
+msgid "Are you sure you want empty the table?"
+msgstr "Sind Sie sicher, dass Sie die Tabelle leeren möchten?"
+
+#: database.php
+msgid "Empty the table"
+msgstr "Tabelle leeren"
+
+#: viewtime.php pageviews.php
+msgid "No data found for this day."
+msgstr "Keine Daten für diesen Tag gefunden."
+
+#: viewtime.php pageviews.php
+msgid "Time, relative to the specified timezone"
+msgstr "Zeit, relativ zur angegebenen Zeitzone"
+
+#: viewtime.php pageviews.php
+msgid "Time"
+msgstr "Zeit"
+
+#: viewtime.php pageviews.php
+msgid "Country of IP address"
+msgstr "Land der IP-Adresse"
+
+#: viewtime.php pageviews.php
+msgid "C."
+msgstr "C."
+
+#: viewtime.php pageviews.php
+msgid "IP Address"
+msgstr "IP Adresse"
+
+#: viewtime.php pageviews.php
+msgid "Operating system"
+msgstr "Betriebssystem"
+
+#: viewtime.php pageviews.php
+msgid "O."
+msgstr "O."
+
+#: viewtime.php pageviews.php
+msgid "Browser and version"
+msgstr "Browser und Version"
+
+#: viewtime.php pageviews.php
+msgid "B."
+msgstr "B."
+
+#: viewtime.php
+msgid "Time of view in seconds"
+msgstr "Zeit der Ansicht in Sekunden"
+
+#: viewtime.php pageviews.php
+msgid "The requested page"
+msgstr "Die angeforderte Seite"
+
+#: viewtime.php pageviews.php
+msgid "Page"
+msgstr "Seite"
+
+#: viewtime.php pageviews.php
+msgid "URL of origin of the visitor"
+msgstr "URL der Herkunft des Besuchers"
+
+#: viewtime.php pageviews.php
+msgid "Origin"
+msgstr "Herkunft"
+
+#: settings.php
+msgid "Rows per page:"
+msgstr "Zeilen pro Seite:"
+
+#: settings.php
+msgid "Specify the number of rows displayed on a page."
+msgstr "Geben Sie die Anzahl der auf einer Seite angezeigten Zeilen an."
+
+#: settings.php
+msgid "Time zone:"
+msgstr "Zeitzone:"
+
+#: settings.php
+msgid "Specify the time zone in which the time should be displayed."
+msgstr "Geben Sie die Zeitzone an, in der die Uhrzeit angezeigt werden soll."
+
+#: settings.php
+msgid "First day of week:"
+msgstr "Erster Tag der Woche:"
+
+#: settings.php
+msgid "Specify the first day of the week displayed in the date input."
+msgstr ""
+"Geben Sie den ersten Tag der Woche an, der in der Datumseingabe angezeigt "
+"wird."
+
+#: settings.php
+msgid "Date format:"
+msgstr "Datumsformat:"
+
+#: settings.php
+msgid "Specify the format of the date displayed in the date input."
+msgstr ""
+"Geben Sie das Format des Datums an, das in der Datumseingabe angezeigt wird."
+
+#: settings.php
+msgid "Time format:"
+msgstr "Zeitformat:"
+
+#: settings.php
+msgid "Specify the format of the time displayed in the statistics."
+msgstr ""
+"Geben Sie das Format der Uhrzeit an, die in der Statistik angezeigt wird."
+
+#: viewtime.php
+msgid "Detailed"
+msgstr "Detailliert"
+
+#: viewtime.php pageviews.php
+msgid "Daily"
+msgstr "Täglich"
+
+#: viewtime.php pageviews.php
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: viewtime.php pageviews.php
+msgid "Yearly"
+msgstr "Jährlich"
+
+#: viewtime.php pageviews.php
+msgid "Total"
+msgstr "Gesamt"
+
+#: viewtime.php
+msgid "Total of all time of view in format: hours:minutes:seconds"
+msgstr "Die gesamte Zeit der Ansicht im Format: Stunden:Minuten:Sekunden"
+
+#: viewtime.php
+msgid "Number of views"
+msgstr "Anzahl der Ansichten"
+
+#: viewtime.php
+msgid "Views"
+msgstr "Ansichten"
+
+#: viewtime.php
+msgid "Average time per view in seconds"
+msgstr "Durchschnittliche Zeit pro Ansicht in Sekunden"
+
+#: viewtime.php
+msgid "Average"
+msgstr "Durchschnittlich"
+
+#: pageviews.php
+msgid "Views per IP address per day"
+msgstr "Ansichten pro IP-Adresse pro Tag"
+
+#: pageviews.php
+msgid "Chart"
+msgstr "Grafik"
+
+#: pageviews.php
+msgid "Day"
+msgstr "Tag"
+
+#: pageviews.php
+msgid "Month"
+msgstr "Monat"
+
+#: pageviews.php
+msgid "Year"
+msgstr "Jähr"
+
+#: update-geoip.php
+msgid ""
+"This plugin uses IP2Location™ LITE IP-COUNTRY Database from IP2Location.com "
+"to determine the country of origin for an IP address. Ownership of IP "
+"addresses change hands from time to time. Therefore, this database must be "
+"also updated from time to time. The recommended update period is 1-3 months."
+msgstr ""
+"Dieses Plugin verwendet IP2Location™ LITE IP-COUNTRY-Datenbank von "
+"IP2Location.com, um das Herkunftsland für eine IP-Adresse zu bestimmen. Der "
+"Besitz von IP-Adressen wechselt von Zeit zu Zeit den Besitzer. Daher muss "
+"diese Datenbank auch von Zeit zu Zeit aktualisiert werden. Der empfohlene "
+"Aktualisierungszeitraum beträgt 1-3 Monate."
+
+#: update-geoip.php
+msgid "Last update"
+msgstr "Letztes Update"
+
+#: update-geoip.php
+msgid "Manual upload"
+msgstr "Manuelles Hochladen"
+
+#: update-geoip.php
+msgid ""
+"Here you can upload these two files by your self. Just visit the download "
+"folder with the following link:"
+msgstr ""
+"Hier können Sie diese beiden Dateien selbst hochladen. Besuchen Sie einfach "
+"den Download-Ordner mit folgendem Link:"
+
+#: update-geoip.php
+msgid "This file you will find here:"
+msgstr "Diese Datei finden Sie hier:"
+
+#: update-geoip.php
+msgid "Extract the ZIP-file and upload IP2LOCATION-LITE-DB1.BIN above."
+msgstr ""
+"Entpacken Sie die ZIP-Datei und laden Sie IP2LOCATION-LITE-DB1.BIN oben hoch."
+
+#: update-geoip.php
+msgid "Extract the ZIP-file and upload IP2LOCATION-LITE-DB1.IPV6.BIN above."
+msgstr ""
+"Entpacken Sie die ZIP-Datei und laden Sie IP2LOCATION-LITE-DB1.IPV6.BIN oben "
+"hoch."
+
+#: update-geoip.php
+msgid "Upload"
+msgstr "Hochladen"
+
+#: update-geoip.php
+msgid "Automatic download"
+msgstr "Automatischer Download"
+
+#: update-geoip.php
+msgid ""
+"Just click on the button below and these two files will be downloaded from "
+"https://download.ip2location.com/lite/ and unzipped into the respective "
+"directory."
+msgstr ""
+"Klicken Sie einfach auf die Schaltfläche unten und diese beiden Dateien "
+"werden von https://download.ip2location.com/lite/ heruntergeladen und in das "
+"entsprechende Verzeichnis entpackt."
+
+#: update-geoip.php
+msgid "Download"
+msgstr "Herunterladen"
